@@ -1,0 +1,19 @@
+::-webkit-input-placeholder {
+    color: #FFFFFF !important;
+}
+ 
+:-moz-placeholder { /* Firefox 18- */
+    color: #FFFFFF;  
+}
+ 
+::-moz-placeholder {  /* Firefox 19+ */
+    color: #FFFFFF;  
+}
+ 
+:-ms-input-placeholder {  
+    color: #FFFFFF;  
+}
+
+.input-group, .input-group-text {
+    color: #FFFFFF !important;
+}
